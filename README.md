@@ -6,4 +6,4 @@ Currently I am mainly interested in [matrix](https://matrix.org/) and the [matri
 
 Other than that, I am interested in real time web applications using technologies like the [WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) and [WebRTC](https://webrtc.org/) and frameworks like [Yjs](https://github.com/yjs/yjs) and [Socket.io](https://socket.io/).
 
-I mostly don't have a lot of spare time, but [open an issue here](https://github.com/dominiwe/dominiwe/issues/new) if you want to communicate with me or ask me something.
+[Open an issue here](https://github.com/dominiwe/dominiwe/issues/new) if you want to communicate with me or ask me something.
