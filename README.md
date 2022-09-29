@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-Currently I interested in a couple of topics. I am interested in [matrix](https://matrix.org/) and the [matrix specification](https://spec.matrix.org/latest/). I want to help make it easier to deploy and administer a software stack to utilise the matrix protocols and to make the transition from proprietary communications platforms to a self-hosted software stack based on matrix easier.
+Currently I am interested in a couple of topics. I am interested in [matrix](https://matrix.org/) and the [matrix specification](https://spec.matrix.org/latest/). I want to help make it easier to deploy and administer a software stack to utilise the matrix protocols and to make the transition from proprietary communications platforms to a self-hosted software stack based on matrix easier.
 
 Other than that, I'm currently really interested in different web technologies and frameworks, mainly about real time web applications and offline applications. Heres a list of links:
 
