@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-My gists can be found [here](https://gist.github.com/dominiwe). Some highlights:
+My gists can be found [here](https://gist.github.com/dominiwe), e.g.:
 
 - [How to properly unistall guix](https://gist.github.com/dominiwe/0c8c760b53ea6bdca611dec38b40006f)
 
