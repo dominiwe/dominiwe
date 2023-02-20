@@ -6,7 +6,7 @@ Projects hosted on github pages:
 
 |Project|Page/demo|Description|Software stack|Status|
 |---|---|---|---|---|
-|[planner](https://github.com/dominiwe/planner)|[demo](https://dominiwe.github.io/planner/)|Time tracking and planning application which can connect to different APIs. | Built with SvelteKit, Svelte and Tailwind. | ![Deploy to GitHub Pages Workflow](https://github.com/dominiwe/planner/actions/workflows/deploy.yml/badge.svg) |
+|[chronoview](https://github.com/dominiwe/chronoview)|[demo](https://dominiwe.github.io/chronoview/)|Time tracking data visualizer which can connect to APIs. | Built with SvelteKit, Svelte and Tailwind. | ![Deploy to GitHub Pages Workflow](https://github.com/dominiwe/planner/actions/workflows/deploy.yml/badge.svg) |
 
 My gists can be found [here](https://gist.github.com/dominiwe). Some recent ones:
 
