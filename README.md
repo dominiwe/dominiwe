@@ -2,10 +2,11 @@
 
 Welcome to my profile!
 
-Projects hosted on github pages:
+Some projects I am working on:
 
 |Project|Page/demo|Description|Software stack|Status|
 |---|---|---|---|---|
+|[matrix-ai-assistant](https://github.com/dominiwe/matrix-ai-assistant)|-|A matrix bot which brings ChatGPT into any matrix room.|SQLite + Python|-|
 |[chronoview](https://github.com/dominiwe/chronoview)|[demo](https://dominiwe.github.io/chronoview/)|Time tracking data visualizer which can connect to APIs. | Built with SvelteKit, Svelte and Tailwind. | ![Deploy to GitHub Pages Workflow](https://github.com/dominiwe/planner/actions/workflows/deploy.yml/badge.svg) |
 
 My gists can be found [here](https://gist.github.com/dominiwe). Some recent ones:
