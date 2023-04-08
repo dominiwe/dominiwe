@@ -11,6 +11,7 @@ Some projects I am working on:
 
 My gists can be found [here](https://gist.github.com/dominiwe). Some recent ones:
 
+- [CICD SSH info generator](https://gist.github.com/dominiwe/41fd574eb9a7e28c8b2ee9e10c70aefe)
 - [How to properly uninstall guix](https://gist.github.com/dominiwe/0c8c760b53ea6bdca611dec38b40006f)
 
 [Open an issue here](https://github.com/dominiwe/dominiwe/issues/new) if you want to communicate with me or ask me something.
