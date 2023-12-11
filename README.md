@@ -1,7 +1,5 @@
 # [dominiwe](https://github.com/dominiwe)
 
-Welcome to my profile!
+Make something so simple that it obviously has no flaws or make something so complex that no flaws are obvious.
 
-My gists can be found [here](https://gist.github.com/dominiwe).
-
-[Open an issue here](https://github.com/dominiwe/dominiwe/issues/new) if you want to communicate with me or ask me something.
+Gists can be found [here](https://gist.github.com/dominiwe).
