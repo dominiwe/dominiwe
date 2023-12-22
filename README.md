@@ -2,4 +2,4 @@
 
 Make something so simple that it obviously has no flaws or make something so complex that no flaws are obvious.
 
-Gists can be found [here](https://gist.github.com/dominiwe).
+Profile picture from [here](https://www.lexaloffle.com/pico-8.php).
